@@ -1,0 +1,30 @@
+.jumbotron {
+	text-align: center;
+	color: green;
+	max-height: 150px;
+}
+.jumbotron h1 {
+	margin-bottom: 50px;
+}
+
+#player1, #player2, #status {
+	border: 5px solid blue;	
+	width: 	30%;
+	min-height: 180px;
+	float: 	left;
+	margin-top: 2%;
+	margin-bottom: 5%;
+}
+
+#player2, #status {
+	margin-left: 5%;
+}
+
+.panel{
+	min-height: 180px;
+}
+
+.panel-title, #messageField {
+	text-align: center;
+	color: red;
+}
